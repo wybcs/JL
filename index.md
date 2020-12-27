@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# 网页设计
 
-You can use the [editor on GitHub](https://github.com/wybcs/JL/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+##  <i class="fa fa-cogs" aria-hidden="true"></i> 技能
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* 熟练使用dream wear、edplus、
+* 参与过多次中小型网站的构建
 
-### Markdown
+##  <i class="fa fa-briefcase" aria-hidden="true"></i> 项目经验
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 第一次网站设计（2019/5-2019/6）
 
-```markdown
-Syntax highlighted code block
+#### 项目描述
 
-# Header 1
-## Header 2
-### Header 3
+* 2019年5月，工作室接到一个项目，为某旅馆做一个网站，通过对客户的需求分析，构建了一个集合住宿登记，用户登记、客房预订等多功能化为一体的交互网站
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wybcs/JL/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

@@ -1,1 +1,34 @@
 theme: jekyll-theme-minimal
+font-icon: /assets/css/font-awesome-4.7.0/css/font-awesome.min.css
+
+# 你的求职方向，比如前端开发工程师等
+title: 网页设计
+
+# 对你自己的简洁描述
+description: 熟练使用dreamwear、能使用phpstudy快速搭建网站
+
+# 你的美照地址
+logo: /assets/images/1.jpg
+
+# 你的名字
+name: steve
+
+# 你的联系方式
+phone: 17845645321
+# 你的邮箱
+email: steve123@163.com
+
+# 你目前的住址
+address: 美国洛杉矶
+
+# 你毕业院校
+school: 圣文森特·圣玛丽高中
+
+# 你的专业
+profession: 计算机网络技术
+
+# 你的学位
+degree: 本科
+
+# 你获得过的证书或奖励
+credential: 英语四级、教师资格证
